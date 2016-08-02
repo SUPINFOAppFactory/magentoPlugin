@@ -1,0 +1,23 @@
+{
+ "author":"SUPINFO AppFactory"
+,"pluginName":"magentoEcommerce"
+,"pluginDescription":"This plugin will connect with Magento."
+,"supportEmail":"supinfoappfactory@supinfo.com"
+,"pluginIcon": "icon.png"
+,"control":{
+  "content":{
+    "enabled":true
+  }
+, "design":{
+    "enabled":true
+  }
+, "settings":{
+    "enabled":false
+  }
+}
+,"widget":{
+
+},
+  "features" : [],
+  "languages" : ["en"]
+}
