@@ -1,7 +1,7 @@
 {
   "name": "magentoEcommercePlugin",
   "version": "1.0.0",
-  "description": "This SUPINFO AppFactory plugin will access the Magento Shopify data",
+  "description": "This plugin allow to  access the Magento Shopify data",
   "main": "index.js",
   "scripts": {
     "postinstall": "./node_modules/.bin/bower install",
